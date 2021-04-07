@@ -1,0 +1,16 @@
+img{
+    width: 350px;
+    height: 180px;
+}
+.display-design{
+    margin-top: 10%;
+    width:350px;
+    height:300px;
+    border: 1px solid red;
+}
+
+.gridd{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    text-align: center;
+}

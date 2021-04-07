@@ -1,0 +1,15 @@
+.half{
+    float: right;
+    margin-top: 5%;
+}
+.half2{
+    margin-right: 10%; 
+}
+.test {
+    position:fixed;
+   left:150px;
+   top:150px;
+  }
+  .hover:hover{
+      border: 1px solid red;
+  }
